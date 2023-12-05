@@ -23,7 +23,7 @@ Make sure you have a C compiler installed, as the solutions are implemented in C
 Clone this repository to your local machine.
 
 ```
-git clone github.com/newbee1905/adventofcode
+git clone https://github.com/newbee1905/adventofcode
 cd adventofcode
 ```
 
